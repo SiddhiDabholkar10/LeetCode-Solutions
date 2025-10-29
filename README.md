@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
