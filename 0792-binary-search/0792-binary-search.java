@@ -5,7 +5,7 @@ class Solution {
         if(nums.length == 0 || start>end){
             return -1;
         }
-        int mid = start + (end - start) / 2;
+        int mid = (start + end) / 2;
         if(nums[mid] == target){
             return mid;
         }
