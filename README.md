@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
