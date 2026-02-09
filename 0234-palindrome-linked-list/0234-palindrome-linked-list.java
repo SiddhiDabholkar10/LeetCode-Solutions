@@ -47,3 +47,13 @@ class Solution {
         return true;
     }
 }
+
+/*
+Approach:
+
+1) Use the slow and fast pointer technique to find the middle of the linked list.
+
+2) Reverse the second half of the list starting from the node after the middle.
+
+3) Compare nodes from the first half and the reversed second half; if all values match, the list is a palindrome.
+ */
