@@ -35,6 +35,7 @@ class Solution {
             fast = fast.next.next;
         }
         ListNode second_half = reverseList(slow.next);
+        slow.next = null;
         ListNode first_half = head;
         while(second_half!=null){
             if(first_half.val != second_half.val){
