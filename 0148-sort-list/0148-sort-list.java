@@ -9,46 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode findMiddle(ListNode head){
+    public ListNode findMiddle(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
+
+         
         ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode fast = head.next;   //minor change in tortoise hair algo to get to manage both even and odd list.
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        
+
         return slow;
     }
-    public ListNode mergeSortedList(ListNode head1, ListNode head2){
+
+    public ListNode mergeSortedList(ListNode head1, ListNode head2) {
         ListNode t1 = head1;
         ListNode t2 = head2;
-        ListNode dNode = new ListNode(-1,null);
+        ListNode dNode = new ListNode(-1, null);
         ListNode temp = dNode;
-        while(t1!=null && t2!=null){
-            if(t1.val <= t2.val){
+        while (t1 != null && t2 != null) {
+            if (t1.val <= t2.val) {
                 temp.next = t1;
                 temp = t1;
                 t1 = t1.next;
-            }
-            else{
+            } else {
                 temp.next = t2;
                 temp = t2;
                 t2 = t2.next;
             }
         }
-        if(t1!=null){
+        if (t1 != null) {
             temp.next = t1;
-        }
-        else{
+        } else {
             temp.next = t2;
         }
         return dNode.next;
     }
+
     public ListNode sortList(ListNode head) {
-        
+
         if (head == null || head.next == null) {
             return head;
         }
@@ -58,7 +60,7 @@ class Solution {
         middle.next = null;
         leftHead = sortList(leftHead);
         rightHead = sortList(rightHead);
-        head = mergeSortedList(leftHead,rightHead);
+        head = mergeSortedList(leftHead, rightHead);
         return head;
 
     }
