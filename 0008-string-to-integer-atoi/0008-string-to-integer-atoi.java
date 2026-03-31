@@ -6,13 +6,22 @@ class Solution {
     static int convertString(String s,int i,long num, int sign){
         //Out of string length or notaDigit is found
         if(i>=s.length() || !Character.isDigit(s.charAt(i)) ){
+
+            //return the number with the sign
             return (int)(sign*num);
 
           
         }
+
+        //attached the next digit
         num = num*10 + (s.charAt(i) - '0');
+
+        //if num already exceeded int - return
         if(sign*num <= INT_MIN_VAL) return INT_MIN_VAL;
         if(sign*num >= INT_MAX_VAL) return INT_MAX_VAL;
+
+
+        //convert next digit in the string to int
 
         return convertString(s,i+1,num,sign);
 
