@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
