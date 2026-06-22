@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
