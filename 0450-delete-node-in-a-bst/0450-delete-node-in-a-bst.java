@@ -14,42 +14,21 @@
  * }
  */
 class Solution {
-    
     public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null) return null;
+        if(root == null) return root;
+        if(key < root.val) root.left = deleteNode(root.left, key);
+        if(key > root.val) root.right = deleteNode(root.right, key);
+        else{
+            if(root.left == null) return root.right;
+            if(root.right == null) return root.left;
+            TreeNode smallest = root.right;
+            while(smallest.left!=null) smallest = smallest.left;
+            root.val = smallest.val;
+            root.right = deleteNode(root.right, smallest.val);
+    
 
-    if (key < root.val) {
-        root.left = deleteNode(root.left, key);
-    }
-    else if (key > root.val) {
-        root.right = deleteNode(root.right, key);
-    }
-    else {
-        // Found node
-
-        // No left child
-        if (root.left == null) {
-            return root.right;
         }
+        return root;
 
-        // No right child
-        if (root.right == null) {
-            return root.left;
-        }
-
-        // Two children
-        TreeNode smallest = root.right;
-
-        while (smallest.left != null) {
-            smallest = smallest.left;
-        }
-
-        root.val = smallest.val;
-
-        // Delete original successor
-        root.right = deleteNode(root.right, smallest.val);
-    }
-
-    return root;
     }
 }
