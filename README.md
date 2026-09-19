@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Search Tree
 |  |
 | ------- |
