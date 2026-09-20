@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
