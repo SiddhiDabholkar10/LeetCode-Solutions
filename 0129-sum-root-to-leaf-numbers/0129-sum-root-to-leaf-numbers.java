@@ -14,24 +14,18 @@
  * }
  */
 class Solution {
-    public void dfs(TreeNode node, String path, ArrayList<String> paths){
+    int sum = 0;
+    public void dfs(TreeNode node, int path){
         if(node == null) return;
-        path+=node.val;
-        if((node.left == null) && (node.right==null)){
-            paths.add(path);
-            return;
+        path = path*10+node.val;
+        if(node.left == null && node.right ==null) {
+            sum +=path;
         }
-        dfs(node.left, path, paths);
-        dfs(node.right, path, paths);
+        dfs(node.left,path);
+        dfs(node.right,path);
     }
     public int sumNumbers(TreeNode root) {
-        String path = "";
-        int result = 0;
-        ArrayList<String> paths = new ArrayList<>();
-        dfs(root, path, paths);
-        for(String numStr: paths){
-            result += Integer.parseInt(numStr);
-        }
-        return result;
+        dfs(root, 0);
+        return sum;
     }
 }
