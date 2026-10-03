@@ -20,6 +20,7 @@ class Solution {
         path = path*10+node.val;
         if(node.left == null && node.right ==null) {
             sum +=path;
+            return;
         }
         dfs(node.left,path);
         dfs(node.right,path);
