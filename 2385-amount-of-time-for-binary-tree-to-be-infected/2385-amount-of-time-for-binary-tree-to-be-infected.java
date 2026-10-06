@@ -45,26 +45,26 @@ class Solution {
         int time = 0;
         while(!queue.isEmpty()){
             int size = queue.size();
-            int burn = 0;
+            boolean burn = false;
             for(int i=0;i<size;i++){
                 TreeNode node = queue.poll();
                 if(node.left!=null && !visited.contains(node.left)){
-                    burn = 1;
+                    burn = true;
                     queue.offer(node.left);
                     visited.add(node.left);
                 }
                 if(node.right!=null && !visited.contains(node.right)){
-                    burn = 1;
+                    burn = true;
                     queue.offer(node.right);
                     visited.add(node.right);
                 }
                 if(parent_track.get(node)!=null && !visited.contains(parent_track.get(node))){
-                    burn = 1;
+                    burn = true;
                     queue.offer(parent_track.get(node));
                     visited.add(parent_track.get(node));
                 }
             }
-            if(burn == 1) time++;
+            if(burn == true) time++;
         }
         return time;
 
