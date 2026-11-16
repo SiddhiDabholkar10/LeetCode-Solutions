@@ -5,13 +5,15 @@ class Solution {
         int n = fruits.length;
         while(r<n){
             freq.put(fruits[r],freq.getOrDefault(fruits[r],0)+1);
-            if(freq.size()>2){
+            while(freq.size()>2){
                 freq.put(fruits[l],freq.get(fruits[l])-1);
                 if(freq.get(fruits[l])==0){
                     freq.remove(fruits[l]);
                 }
                 l++;
+                
             }
+            
             if(freq.size()<=2){
                     maxLen = Math.max(maxLen, r-l+1);
                     
