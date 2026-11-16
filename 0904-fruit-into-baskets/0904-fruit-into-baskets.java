@@ -6,7 +6,7 @@ class Solution {
         while(r<n){
             freq.put(fruits[r],freq.getOrDefault(fruits[r],0)+1);
             if(freq.size()>2){
-                freq.put(fruits[l],freq.getOrDefault(fruits[l],0)-1);
+                freq.put(fruits[l],freq.get(fruits[l])-1);
                 if(freq.get(fruits[l])==0){
                     freq.remove(fruits[l]);
                 }
