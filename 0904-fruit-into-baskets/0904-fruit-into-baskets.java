@@ -9,6 +9,7 @@ class Solution {
                 freq.put(fruits[l],freq.get(fruits[l])-1);
                 if(freq.get(fruits[l])==0){
                     freq.remove(fruits[l]);
+                    
                 }
                 l++;
                 
