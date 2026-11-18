@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
