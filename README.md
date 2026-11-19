@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
