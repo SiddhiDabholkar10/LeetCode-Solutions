@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Linked List
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
