@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Linked List
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SiddhiDabholkar10/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
